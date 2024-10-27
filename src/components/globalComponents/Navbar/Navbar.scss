@@ -1,0 +1,21 @@
+.header {
+  padding: 10px 0;
+  .nav {
+    align-items: center;
+    column-gap: 30%;
+    justify-content: stretch;
+    .links {
+      a {
+        display: inline-block;
+        margin-right: 10px;
+        padding: 5px;
+        font-size: 17px;
+        color: black;
+        &.active {
+          border-bottom: 5px solid rgb(252, 226, 178);
+        }
+      }
+    }
+  }
+}
+

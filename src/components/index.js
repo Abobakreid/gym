@@ -1,0 +1,10 @@
+export { default as Navbar } from "./globalComponents/Navbar/Navbar";
+export { default as Footer } from "./globalComponents/Footer/Footer";
+export { default as Cards } from "./homeComponents/Cards";
+export { default as Banner } from "./homeComponents/Banner";
+export { default as Search } from "./homeComponents/Search";
+export { default as Results } from "./homeComponents/Results";
+export { default as ExerciseDetails } from "./DetailsComponents/ExerciseDetails";
+export { default as ExerciseVideos } from "./DetailsComponents/ExerciseVideos";
+export { default as ExerciseSimilar } from "./DetailsComponents/ExerciseSimilar";
+export { default as ExerciseEquipment } from "./DetailsComponents/ExerciseEquipment";
